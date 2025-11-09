@@ -1,0 +1,13 @@
+flask
+flask-cors
+pillow
+pytesseract
+ultralytics
+torch
+opencv-python-headless
+pyzbar
+pyaadhaar
+numpy
+pandas
+python-dateutil
+gunicorn
